@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "usename":"13304562",
+            "space":"四季绿城",
+            "name": "999游轮",
+            "img": ["http://ddimg.ddxq.mobi/FrR2SJhqGJyIxGUCLofXFS2fMUsd"],
+            "price":"￥100.00",
+            "priceold":"￥120.00",
+            "dise":"\u672c\u5143\u9752\u82b1\u4e3a\u51fa\u571f\u9752\u82b1\u74f7\u3002"
+        },
+        {
+            "usename":"小强",
+            "space":"四季绿城",
+            "name": "小米手环2，全新微财富",
+            "img": ["http://ddimg.ddxq.mobi/FlOuwt8ToE0WiEXOMyeTbrCJkm8v", "http://ddimg.ddxq.mobi/FmAnij-Xk-w5S9a4tee_CK_tfXv2", "http://ddimg.ddxq.mobi/FrRIN1hT4WzUi1_lwCb4oDcmuru0"],
+            "price":"￥40.00",
+            "priceold":"￥62.00",
+            "dise":"\u672c\u5143\u9752\u82b1\u4e3a\u51fa\u571f\u9752\u82b1\u74f7\u3002"
+        },
+        {
+            "usename":"24K纯帅rwr",
+            "space":"四季绿城",
+            "name": "雾霾口罩",
+            "img": ["http://ddimg.ddxq.mobi/FlGPW3uRLigsr2xYh28JaHMvF4gw"],
+            "price":"￥50.00",
+            "priceold":"￥60.00",
+            "dise":"999\u90ae\u8f6e\u6765\u4e86\uff01\n10.20\u6b4c\u8bd7\u8fbe\u201c\u8d5b\u7433"
+        }
+        
+    ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "src":"./images/chuangdian.png",
+    "tit":"床垫",
+    "discribe":"杀菌除螨防敏"
+  },
+  {
+    "src":"./images/shafa.png",
+    "tit":"沙发护理",
+    "discribe":"沙发永葆青春"
+  },
+  {
+    "src":"./images/diban.png",
+    "tit":"地板",
+    "discribe":"专业地板养护"
+  },
+  {
+    "src":"",
+    "tit":""
+  }
+]

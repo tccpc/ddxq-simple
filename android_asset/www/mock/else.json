@@ -1,0 +1,26 @@
+[
+  {
+  "hot":false,
+  "id":23,
+  "multiSelect":false,
+  "tag":"五金杂货"
+  },
+  {
+    "hot":false,
+    "id":25,
+    "multiSelect":false,
+    "tag":"便利店"
+  },
+  {
+  "hot":false,
+  "id":27,
+  "multiSelect":false,
+  "tag":"家居家具"
+  },
+  {
+    "hot":false,
+    "id":29,
+    "multiSelect":false,
+    "tag":"其他购物"
+    }
+]

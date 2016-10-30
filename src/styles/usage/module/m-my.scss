@@ -1,0 +1,116 @@
+.my-container{
+  height: 100%;
+  @include flexbox();
+  @include flex-direction(column);
+  .myHeader{
+    @include flexbox();
+    background: $tabbarColor;
+    height: $tabbarHeight;
+    text-indent: $headFontSize;
+    color: white;
+    font-size:$headFontSize;
+    line-height:$tabbarHeight;
+  }
+  .mybox{
+    overflow-y: scroll;;
+    @include flex();
+    width: 100%;
+    height: 100%;
+    .my{
+      @include border($border-width:1px 0 0 0,$border-color:#aaa);
+      background: #fff;
+      margin: 10px 0;
+      height: 60px;
+      @include flexbox();
+      @include flex-direction(row);
+      @include justify-content(space-between);
+      .myImg{
+        margin-top: 5px;
+        margin-left: 5px;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+      }
+      .name{
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 5px;
+        padding-top: 8px;
+      }
+      .rightImg{
+        height: 16px;
+        margin: 17px 5px 0 0;
+      }
+    }
+    .mylist{
+      li img{
+        height: 30px;
+        width: 30px;
+        margin-right: 8px;
+      }
+      li {
+        height: 50px;
+        @include flexbox();
+        @include flex-direction(row);
+        @include align-items(center);
+        .list-box{
+          height: 50px;
+          width: 100%;
+          line-height: 50px;
+          display: block;
+          @include border($border-width:0 0 1px 0,$border-color:#ddd);
+        }
+      }
+      font-size: 14px;
+      .my-top{
+        padding: 0 8px;
+        background: #fff;
+        color: #444;
+        @include flexbox();
+        @include flex-direction(column);
+        @include justify-content(center);
+        .listshead{
+          @include flexbox();
+          @include flex-direction(row);
+          @include justify-content(space-between);
+          &>span:nth-child(2){
+            color:#999;
+            font-size: 12px;
+          }
+        }
+      }
+      .my-center{
+        padding: 0 8px;
+        margin: 10px 0;
+        background: #fff;
+      }
+      .my-bottom{
+        padding: 0 8px;
+        margin: 10px 0;
+        background: #fff;
+        .back-box{
+          @include flexbox();
+          @include flex-direction(row);
+          @include justify-content(center);
+          @include align-items(center);
+        }
+        .back-btn{
+          width: 120px;
+          height: 40px;
+          background: $tabbarColor;
+          color: #fff;
+          font-size: 12px;
+          border: 0;
+          border-radius: 5px;
+          line-height: 20px;
+        }
+      }
+    }
+  }
+  .tit-bottom{
+    text-align: center;
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 10px;
+  }
+}

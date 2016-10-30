@@ -1,0 +1,23 @@
+{
+  "cookies":null,
+  "costTime":1684,
+  "msg":"ok",
+  "result":[
+    {
+      "address":"淞发路25弄",
+      "allowComment":true,
+      "deliverSupport":false,
+      "discountSupport":false,
+      "helpPurchaseSupport":false,
+      "homeServiceDistance":0,
+      "homeServiceSupport":true,
+      "id":4839,
+      "isNew":false,
+      "merchantName":"叮咚小区淞南服务站",
+      "ratingCount":0,
+      "stars":0
+      }
+    ],
+    "statusCode":"200",
+    "validationErrors":null
+  }

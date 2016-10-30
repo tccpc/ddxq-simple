@@ -1,0 +1,97 @@
+.aunt-container{
+  position: relative;
+  width:100%;
+  height:100%;
+  .header{
+    z-index: 1002;
+    background: #fff;
+    width:100%;
+    height: 44px;
+    line-height:44px;
+    color:$tabbarColor;
+    font-size:$headFontSize;
+    @include border($border-width:0 0 1px 0,$border-color:#ccc);
+    position: relative;
+    div:nth-child(1){
+      height: 44px;
+      width:50px;
+      font-size:$headimgSize;
+      position: absolute;
+      top:0;
+      left:0;
+      z-index: 1001;
+      padding-left:$headMargin;
+    }
+    h1{
+      height: 44px;
+      font-size:20px;
+      text-indent: 14px;
+      width:100%;
+      padding-left:40px;
+    }
+  }
+  .topbar{
+    height:44px;
+    width:100%;
+    position:absolute;
+    top:43px;
+    left:0;
+    background:#fff;
+    z-index: 1000;
+    @include flexbox();
+    box-sizing: border-box;
+    @include align-items(center);
+    @include justify-content(center);
+    text-align: center;
+    font-size: 16px;
+    .topleft{
+      @include flex(1);
+    }
+    .topright{
+      @include flex(1);
+    }
+  }
+  #auntiscroll{
+    padding:44px 0;
+    height:100%;
+    width:100%;
+    .aunt-list{
+      padding-left:0.2rem;
+      li{
+        @include flexbox();
+        padding:0.1rem 0;
+        @include border($border-width:0 0 1px 0,$border-color:#eee);
+        img{
+          width:0.4rem;
+          height:0.4rem;
+          border-radius: 0.03rem;
+          margin-right:0.1rem;
+        }
+        section{
+          @include flexbox();
+          @include flex-direction(column);
+          b{
+            font-size:14px;
+            color:#333;
+            font-weight: normal;
+            line-height:16px;
+            img{
+              height:14px;
+              width:30px;
+              margin-bottom:2px;
+            }
+          }
+          i,span{
+            color:#888;
+          }
+          i{
+            line-height:16px;
+            padding-left:14px;
+            background: url('/android_asset/www/images/20-20-16.png') no-repeat 0 3px;
+            background-size: 10px 10px;
+          }
+        }
+      }
+    }
+  }
+}

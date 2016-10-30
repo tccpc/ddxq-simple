@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "id": "16105004",
+      "privilege_money": [
+        [
+          "50",
+          "5"
+        ],
+        [
+          "100",
+          "10"
+        ],
+        [
+          "200",
+          "20"
+        ]
+      ],
+      "title": "黎辣辣家辣酱（新增试吃装，零添加剂，贵州本地最优食材制作）",
+      "cover_url": "http://o2oimg.ddxq.mobi/7d4593541471447006485.jpg!zt.item.list",
+      "organizer_id": "504",
+      "cover_title": "",
+      "begin_date": "1477153080",
+      "end_date": "1477583940",
+      "description": "<p>爱上一个人，因为那份缠绕心口的温暖；</p><p>记住一个地方，或许是那口无法忘怀的味道。</p><p>你爱过形形色色的辣酱，她是最懂你的。</p><p>让美味传播，她是你最好的选择。</p><p>一次，一世......</p><p><span style=\"background-color: rgb(255, 255, 255);\"></span></p><p><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">为了回馈广大辣友，此次团购新增4种口味较低价格的试吃装（50ml），以便于更多的邻居们可以了解我们辣酱的口味，因此每种口味仅限购1瓶。</span></strong></span></p><p><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">与此同时欢迎各位邻居随时与我们进行交流，邻居们的建议将是我们最宝贵的财富。</span></strong></span></p><p><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">手机号：15221099004</span></strong></span></p><p><span style=\"font-size: 20px;\"><strong><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">微信号：loveyou555555</span></strong></span></p><p></p><p><img src=\"http://o2oimg.ddxq.mobi/8a7786511471447288816.jpg!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/793b90661471447289009.jpg!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/38ecffed1471447289423.jpg!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/df6049b81471447289135.jpg!zt.content\" style=\"\"></p><p>顾客好评：</p><p></p><p><img src=\"http://o2oimg.ddxq.mobi/e47d146a1471448575492.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/317fd6fe1471448575413.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/d767992e1471448575546.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/69e9d9491471448577124.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/611cd73d1471448576933.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/367a440b1471448577359.PNG!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/2beb34151471448578214.png!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/b26227171471448578480.png!zt.content\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/5520eb7b1471448579199.png!zt.content\" style=\"\"></p><p></p>",
+      "min_price": "6.00",
+      "sold_num": "25",
+      "status": "5",
+      "is_full_groupon": "0",
+      "detail_url": "http://o2oimg.ddxq.mobi/7d4593541471447006485.jpg!zt.item.detail",
+      "expect_deliver_time": null,
+      "buy_person_num": "13",
+      "tag_id": null,
+      "sort": "1",
+      "privilege": true,
+      "status_text": 1,
+      "products": [
+        {
+          "id": "587219",
+          "product_name": "素辣酱（微辣）",
+          "product_tag": "A",
+          "original_price": "40.00",
+          "group_price": "35.00",
+          "image_url": "http://o2oimg.ddxq.mobi/9007d2331471444733074.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（280ML装）。本品为全素微辣酱，虽然微辣，但仍然辣劲十足，香味四溢，相信是爱辣的您的不二选择。",
+          "stock": "30",
+          "sold_num": "0",
+          "limit_quantity": "0"
+        },
+        {
+          "id": "587220",
+          "product_name": "素辣酱（重辣）",
+          "product_tag": "B",
+          "original_price": "40.00",
+          "group_price": "35.00",
+          "image_url": "http://o2oimg.ddxq.mobi/b74435111471445977332.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（280ML装）。本品为全素重辣酱，您想挑战您的味蕾吗？全素重辣一定不会让您失望的，吃过的人终生难忘......",
+          "stock": "20",
+          "sold_num": "1",
+          "limit_quantity": "0"
+        },
+        {
+          "id": "587221",
+          "product_name": "牛肉辣酱（微辣）",
+          "product_tag": "C",
+          "original_price": "56.00",
+          "group_price": "49.00",
+          "image_url": "http://o2oimg.ddxq.mobi/ddfdb7661471446261825.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（280ML装）。本品为牛肉微辣酱，虽然微辣，但仍然辣劲十足，香味四溢，相信是爱辣的您的不二选择。",
+          "stock": "30",
+          "sold_num": "0",
+          "limit_quantity": "0"
+        },
+        {
+          "id": "587222",
+          "product_name": "牛肉辣酱（重辣）",
+          "product_tag": "D",
+          "original_price": "56.00",
+          "group_price": "49.00",
+          "image_url": "http://o2oimg.ddxq.mobi/ce073acb1471446349734.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（280ML装）。本品为牛肉重辣酱，您想挑战您的味蕾吗？牛肉重辣一定不会让您失望的，吃过的人终生难忘......",
+          "stock": "20",
+          "sold_num": "2",
+          "limit_quantity": "0"
+        },
+        {
+          "id": "587223",
+          "product_name": "试吃装素辣酱(微辣)",
+          "product_tag": "E",
+          "original_price": "10.00",
+          "group_price": "6.00",
+          "image_url": "http://o2oimg.ddxq.mobi/eebbf5821474703383600.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（50ML装）。本品为全素微辣酱，虽然微辣，但仍然辣劲十足，香味四溢，相信是爱辣的您的不二选择。",
+          "stock": "50",
+          "sold_num": "5",
+          "limit_quantity": "1"
+        },
+        {
+          "id": "587224",
+          "product_name": "试吃装素辣酱（重辣）",
+          "product_tag": "F",
+          "original_price": "10.00",
+          "group_price": "6.00",
+          "image_url": "http://o2oimg.ddxq.mobi/25ea73671474703603024.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（50ML装）。本品为全素重辣酱，您想挑战您的味蕾吗？全素重辣一定不会让您失望的，吃过的人终生难忘......",
+          "stock": "50",
+          "sold_num": "5",
+          "limit_quantity": "1"
+        },
+        {
+          "id": "587225",
+          "product_name": "试吃装牛肉辣酱（微辣）",
+          "product_tag": "G",
+          "original_price": "15.00",
+          "group_price": "9.00",
+          "image_url": "http://o2oimg.ddxq.mobi/07fbc25b1474703713787.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（50ML装）。本品为牛肉微辣酱，虽然微辣，但仍然辣劲十足，香味四溢，相信是爱辣的您的不二选择。",
+          "stock": "50",
+          "sold_num": "7",
+          "limit_quantity": "1"
+        },
+        {
+          "id": "587226",
+          "product_name": "试吃装牛肉辣酱（重辣）",
+          "product_tag": "H",
+          "original_price": "15.00",
+          "group_price": "9.00",
+          "image_url": "http://o2oimg.ddxq.mobi/d30d94d31474703815140.jpg!zt.item.list",
+          "description": "贵州本地食材手工制作的辣酱，无任何添加剂（50ML装）。本品为牛肉重辣酱，您想挑战您的味蕾吗？牛肉重辣一定不会让您失望的，吃过的人终生难忘......",
+          "stock": "50",
+          "sold_num": "5",
+          "limit_quantity": "1"
+        }
+      ],
+      "orders": [
+        {
+          "user_name": "13****3225",
+          "user_avatar": "",
+          "user_mobile": "",
+          "create_time": "1477319397",
+          "products": [
+            {
+              "tag": "E",
+              "count": "1"
+            },
+            {
+              "tag": "G",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "user_name": "哈罗",
+          "user_avatar": "http://wx.qlogo.cn/mmopen/ufRpJDOsjf54WMnwgtzmJE4YrwHTsgicC1t7B0um2NPukD00RWvKfcenI433ppxnP4CvuiaSKa1K1iaq0GZYaV1AOY208ku1SPe/0",
+          "user_mobile": "",
+          "create_time": "1477316767",
+          "products": [
+            {
+              "tag": "D",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "user_name": "18****8519",
+          "user_avatar": "",
+          "user_mobile": "",
+          "create_time": "1477313709",
+          "products": [
+            {
+              "tag": "G",
+              "count": "1"
+            },
+            {
+              "tag": "H",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "user_name": "  、",
+          "user_avatar": "http://wx.qlogo.cn/mmopen/fibXWPEhfkPG42J6F7EAmPKVsnnydjMHvvnxngD6faWBz01yNM5SLrTq5DB3wIRVk1Xmso0AroXUicd2Nyic5aQTuwSBXTXEZFK/0",
+          "user_mobile": "",
+          "create_time": "1477313535",
+          "products": [
+            {
+              "tag": "E",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "user_name": "梁英",
+          "user_avatar": "http://wx.qlogo.cn/mmopen/ChCs6YSVOGX3IjUg7haHLB12ibxESFtX4nbOYVU3Cribb2icRKKHBbrtXXOBbElDE5VPb0FibjoKz1J6aPYAflEMiae9jEX8N2Q8W/0",
+          "user_mobile": "",
+          "create_time": "1477312177",
+          "products": [
+            {
+              "tag": "F",
+              "count": "1"
+            },
+            {
+              "tag": "H",
+              "count": "1"
+            }
+          ]
+        },
+        {
+          "user_name": "多像笑话 。",
+          "user_avatar": "http://wx.qlogo.cn/mmopen/PiajxSqBRaELUvG7EQzicea94icMjSRwl3PPBTuiakTYSX4I5TNWribGOYhUkDOGdFFANowbm2I54lbEbcyYTHIPlgg/0",
+          "user_mobile": "",
+          "create_time": "1477292339",
+          "products": [
+            {
+              "tag": "H",
+              "count": "1"
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+
+  ]
+}

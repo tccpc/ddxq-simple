@@ -1,0 +1,75 @@
+[
+  {
+    "id":5,
+    "mername":"苏北鸡蛋(大昌菜场)",
+    "merchantimg":"./images/subeijidan.png",
+    "time":"10:00-18:00",
+    "monthsale":"60",
+    "pro":"鸡蛋 鸭蛋 其他蛋类",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":6,
+    "mername":"大昌菜市场·贝类",
+    "merchantimg":"./images/dachanghaixian.png",
+    "time":"09:30-18:00",
+    "monthsale":"5",
+    "pro":"海鲜贝壳类",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":7,
+    "mername":"大昌菜场·小刘粮油店",
+    "merchantimg":"./images/xiaoliuliangyou.png",
+    "time":"09:30-18:00",
+    "monthsale":"47",
+    "pro":"油盐酱醋干货",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":8,
+    "mername":"大昌菜市场禽类",
+    "merchantimg":"./images/dachangqinlei.png",
+    "time":"09:30-19:00",
+    "monthsale":"18",
+    "pro":"本店禽类都是活禽",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":9,
+    "mername":"大昌菜市场·清美豆制品",
+    "merchantimg":"./images/dachangqingmei.jpg",
+    "time":"09:00-18:00",
+    "monthsale":"18",
+    "pro":"豆制品",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":10,
+    "mername":"大昌菜市场·金锣冷鲜肉",
+    "merchantimg":"./images/jinluo.png",
+    "time":"06:30-18:00",
+    "monthsale":"57",
+    "pro":"吃品质肉 健康有保障",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":11,
+    "mername":"大昌菜场104号",
+    "merchantimg":"./images/dachangcaichang.png",
+    "time":"09:30-18:00",
+    "monthsale":"354",
+    "pro":"青菜 萝卜 青椒",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":12,
+    "mername":"大昌菜市场·小六子河鲜",
+    "merchantimg":"./images/dachanghaixian.png",
+    "time":"09:30-18:00",
+    "monthsale":"63",
+    "pro":"鱼 虾",
+    "isnew":true,
+    "isreserve":false
+  }
+]

@@ -1,0 +1,316 @@
+{
+    "data": [
+        {
+            "id": "16104952",
+            "privilege_money": [],
+            "title": "疯狂万圣节，一起来打怪，一起去讨糖！",
+            "cover_url": "http://o2oimg.ddxq.mobi/12b919671477044236419.jpg",
+            "organizer_id": "241",
+            "cover_title": "",
+            "begin_date": "1477044240",
+            "end_date": "1477735200",
+            "description": "<p><img src=\"http://o2oimg.ddxq.mobi/79cfb0e61477038186961.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/63e376071477038192129.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/d7421f131477038195395.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/8edaee521477038199430.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/656d010f1477038203116.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/095af1741477038207312.jpg\" style=\"\"></p><p><img src=\"http://o2oimg.ddxq.mobi/ba648a621477038211144.jpg\" style=\"\"></p><p></p>",
+            "min_price": "0.01",
+            "sold_num": "22",
+            "status": "5",
+            "is_full_groupon": "0",
+            "detail_url": "http://o2oimg.ddxq.mobi/12b919671477044236419.jpg",
+            "expect_deliver_time": null,
+            "buy_person_num": "22",
+            "tag_id": "3",
+            "sort": "1",
+            "privilege": false,
+            "status_text": 1,
+            "products": [
+                {
+                    "id": "587007",
+                    "product_name": "彩绘、闯关、走秀、 讨糖……",
+                    "product_tag": "A",
+                    "original_price": null,
+                    "group_price": "0.01",
+                    "image_url": "http://o2oimg.ddxq.mobi/7767ba961476953652195.JPG",
+                    "description": "10月29日15:00—晚上，碧云新天地家园，中心广场商业街，疯狂万圣节，一起打怪，一起讨糖！",
+                    "stock": "250",
+                    "sold_num": "22",
+                    "limit_quantity": "0"
+                }
+            ],
+            "orders": [
+                {
+                    "user_name": "宝乐",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/yQiajXKmkWX67TPDEhaYJbz30sAtClhAROXhRkvPMzhFyJmMDbMqntEWFAsDW9lzxz4h0PDUFBzk0KsuBicibwAy9dT4wMs613G/0",
+                    "user_mobile": "",
+                    "create_time": "1477318259",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "13****2355",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477317046",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "琪 琪",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/FnNW6IlLkDtKqx-Hrhai-wMh_P5U",
+                    "user_mobile": "",
+                    "create_time": "1477311922",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "玄",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLDkqD0icT44QqYeN7Teno3X5icLB7TtKlgemKgqtSsowx6IZ8kVFHJEETDnoZFZWsJ3XPKele8rPMXA/0",
+                    "user_mobile": "",
+                    "create_time": "1477309579",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "??",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/yQiajXKmkWX5ENbymSQuzQiaAZa6nmIF8oTuiaVYCetRH4otw0n5ibCRZztEboRT0QsTTnbhHRoLLp7DSd1qxibSz1Z7iccAV462rO/0",
+                    "user_mobile": "",
+                    "create_time": "1477283770",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "珍珍",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/ChCs6YSVOGVU22DJp3iaLfT6XotuSAjV0XUFyz3wiaz8T5sqAc0icia4Z6XURbLzWlwS4gP7Ab8ln9iaIOaTCI3icCyg/0",
+                    "user_mobile": "",
+                    "create_time": "1477283484",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "Kelvin范",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEJhibokCLKbdNCyMm46fznxiada6PNqrUm7yrVJVwcT7rx8NWSnyRdaY1UsHzbryDbCeZRwIxh566qA/0",
+                    "user_mobile": "",
+                    "create_time": "1477282518",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "13****8190",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477280431",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "丫头丫",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/608474901c3a1696660007ea4067956f3998fbf116f9be38f.jpg",
+                    "user_mobile": "",
+                    "create_time": "1477229292",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "家有宝贝",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/Lznz1bic06OEo71YnfhvJMP9ia2UpvIlx1H67etQXTDojn7QSX1CL0KF7EKWkFnllhT0icWO40zlIsoIVrkXBeRMzYAQ3nyUJuj/0",
+                    "user_mobile": "",
+                    "create_time": "1477204401",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "13****6119",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477190311",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "sweetCH",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/Fvi3jMpdrAMUBWYxvPr8AhI3D4lB",
+                    "user_mobile": "",
+                    "create_time": "1477149485",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "13****8115",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477147372",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "Cz",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/-1685055687f3b139ab0a90fdbcb102751d6cbfe4be5117b39.jpg",
+                    "user_mobile": "",
+                    "create_time": "1477114124",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "17****1197",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477103442",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "蓬蓬君",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477100925",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "电信",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477099553",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "悠悠妈妈",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/1937777701876406bdc553ec5f1d671e182221c4543b380279.jpg",
+                    "user_mobile": "",
+                    "create_time": "1477098920",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "18****6225",
+                    "user_avatar": "",
+                    "user_mobile": "",
+                    "create_time": "1477097111",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "Jenny lee",
+                    "user_avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5YtHtc6V8d9icGibuTwlRgghkBjLav2Mk3wnH7oOW2qzSDfgustwI0qH7KXvQCuicBdIE9hC8f7eOkg/0",
+                    "user_mobile": "",
+                    "create_time": "1477093522",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "杰杰妈",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/FlMbtPmgcYHgtqfMO8dM-2fqEooz",
+                    "user_mobile": "",
+                    "create_time": "1477061033",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "user_name": "筱柔奇",
+                    "user_avatar": "http://iyaya-neighborhood.u.qiniudn.com/FpVGf3tlkD4SKU2BEiIdnnG3AfP1",
+                    "user_mobile": "",
+                    "create_time": "1477060825",
+                    "products": [
+                        {
+                            "tag": "A",
+                            "count": "1"
+                        }
+                    ]
+                }
+            ],
+            "organizer": {
+                "nick_name": "叮咚趣玩",
+                "avatar": "http://o2oimg.ddxq.mobi/62ad5791471845544320.jpg?imageMogr/v2/crop/!3200x3200a0a256/thumbnail/!160x160r",
+                "address": "有家的地方就有叮咚小区",
+                "show_profile": "1",
+                "mobile": "13661480033"
+            },
+            "buy_person_number": "22"
+        }
+
+
+    ]
+}

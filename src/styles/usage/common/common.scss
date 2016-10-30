@@ -1,0 +1,27 @@
+@font-face {font-family: "iconfont";
+  src: url('/android_asset/www/images/iconfont.eot?t=1477107218'); /* IE9*/
+  src: url('/android_asset/www/images/iconfont.eot?t=1477107218#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/android_asset/www/images/iconfont.woff?t=1477107218') format('woff'), /* chrome, firefox */
+  url('/android_asset/www/images/iconfont.ttf?t=1477107218') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/android_asset/www/images/iconfont.svg?t=1477107218#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+  font-size:12px;
+}
+
+$tabbarColor:#fe602b;
+$tabbarHeight:44px;
+$headMargin:.1rem;
+$headBackground:#f8f8f8;
+$headFontSize:18px;
+$headimgSize:20px;

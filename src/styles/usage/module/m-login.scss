@@ -1,0 +1,47 @@
+.login-box{
+  @include flexbox();
+  @include align-items(center);
+  header{
+    width: 100%;
+    height:$tabbarHeight;
+    background: $headBackground;
+    @include flexbox();
+    @include align-items(center);
+    img{
+      height: $headimgSize;
+      width: $headimgSize;
+      margin: 0 $headMargin;
+    }
+    font-size: $headFontSize;
+      @include border($border-width:0 0 1px 0,$border-color:#aaa);
+  }
+  .input-ul{
+    width: 100%;
+    margin-top: 20px;
+    background-color: #ffffff;
+    input{
+      border: 0;
+      width: 80%;
+    }
+    li{
+      @include flexbox();
+      padding: 0 0 0 10px;
+      height: 50px;
+      @include border($border-width:0 0 1px 0,$border-color:#aaa);
+    }
+  }
+  .btn{
+    width: 90%;
+    height: 50px;
+    color: #fff;
+    background: $tabbarColor;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .xieyi{
+    color: #777;
+  }
+}

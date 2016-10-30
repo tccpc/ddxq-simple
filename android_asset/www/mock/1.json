@@ -1,0 +1,47 @@
+[
+  {
+    "id":1,
+    "mername":"新疆大饼",
+    "merchantimg":"./images/xinjiangdabing.png",
+    "time":"07:00-19:00",
+    "monthsale":"17",
+    "pro":"本店食品清真",
+    "isnew":false,
+    "isreserve":false
+  },{
+    "id":21,
+    "mername":"裕生源粥店",
+    "merchantimg":"./images/yushengyuanzhoudian.png",
+    "time":"06:30-15:00",
+    "monthsale":"604",
+    "pro":"养生的粥，健康的粥",
+    "isnew":true,
+    "isreserve":false
+  },{
+    "id":19,
+    "mername":"新亚大包早餐",
+    "merchantimg":"./images/xinyadabao.png",
+    "time":"14:00-22:00",
+    "monthsale":"22",
+    "pro":"小笼包 早点",
+    "isnew":true,
+    "isreserve":true,
+    "breakfast":true,
+    "outsend":true,
+    "department":false,
+    "buybegetables":false
+  },{
+    "id":20,
+    "mername":"肯德基早餐",
+    "merchantimg":"./images/KFC.png",
+    "time":"06:30-09:30",
+    "monthsale":"698",
+    "pro":"来自大洋彼岸的美味",
+    "isnew":true,
+    "isreserve":false,
+    "breakfast":false,
+    "outsend":false,
+    "department":false,
+    "buybegetables":true
+  }
+]

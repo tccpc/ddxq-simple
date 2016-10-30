@@ -1,0 +1,15 @@
+{
+  "name":"京鑫甘栗(长逸路店)",
+  "min_time":"08:00",
+  "max_time":"19:30",
+  "category":["全部","新疆大饼"],
+  "products":[
+    {
+      "proname":"新疆大饼（馕）（个）",
+      "price":"5",
+      "proimg":"./images/xinjiangdabing.jpg",
+      "mark_new":true,
+      "category_id":1
+    }
+  ]
+}

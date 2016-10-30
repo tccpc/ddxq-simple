@@ -1,0 +1,32 @@
+[
+  {
+    "src":"./images/kongtiao.png",
+    "tit":"空调清洗",
+    "discribe":"呼吸清新空气"
+  },
+  {
+    "src":"./images/zhongyang.png",
+    "tit":"中央空调清洗",
+    "discribe":"呼吸清新空气"
+  },
+  {
+    "src":"./images/xiyi.png",
+    "tit":"洗衣机清洗",
+    "discribe":"杜绝二次污染"
+  },
+  {
+    "src":"./images/youyan.png",
+    "tit":"油烟机清洗",
+    "discribe":"除尽油吸尽烟"
+  },
+  {
+    "src":"./images/bingxiang.png",
+    "tit":"冰箱清洗",
+    "discribe":"除冰除味除菌"
+  },
+  {
+    "src":"",
+    "tit":"",
+    "discribe":""
+  }
+]

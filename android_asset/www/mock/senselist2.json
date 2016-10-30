@@ -1,0 +1,29 @@
+{
+"mainType":{
+"description":"修鞋改衣、干洗、搬家...",
+"hot":false,
+"id":10,
+"multiSelect":false,
+"tag":"家政"
+},
+"subTypes":[
+  {
+    "hot":false,
+    "id":14,
+    "multiSelect":false,
+    "tag":"修鞋改衣"
+  },
+  {
+    "hot":false,
+    "id":12,
+    "multiSelect":false,
+    "tag":"干洗"
+  },
+  {
+    "hot":false,
+    "id":19,
+    "multiSelect":true,
+    "tag":"搬家"
+    }
+    ]
+  }

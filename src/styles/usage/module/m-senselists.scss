@@ -1,0 +1,154 @@
+.senselistscon{
+  width:100%;
+  height:100%;
+  @include flexbox();
+  .header{
+    z-index: 1000;
+    background: #fff;
+    width:100%;
+    height:$tabbarHeight;
+    line-height:44px;
+    @include border($border-width:0 0 1px 0,$border-color:#ccc);
+    position: relative;
+    color:$tabbarColor;
+    div:nth-child(1){
+      height: 44px;
+      width:50px;
+      font-size:$headimgSize;
+      position: absolute;
+      top:0;
+      left:0;
+      z-index: 1001;
+      padding-left:$headMargin;
+    }
+    h1{
+      height: 44px;
+      font-size:20px;
+      text-indent: 14px;
+      width:100%;
+      padding-left:40px;
+    }
+  }
+  .numtop{
+    z-index: 1000;
+    background:#fff;
+    position: relative;
+    .orderlist,.filterlist{
+      position: absolute;
+      top:44px;
+      left:0;
+      width:100%;
+      background:#fff;
+      z-index: 1000;
+      li{
+        height:40px;
+        line-height: 40px;
+        width:100%;
+        color:$tabbarColor;
+        padding:0 10px;
+        @include border(0 0 1px 0,#999);
+      }
+    }
+    .topbar{
+      width:100%;
+      @include flexbox();
+      @include border(0 0 1px 0,#999);
+      li{
+        height:44px;
+        line-height: 44px;
+        text-align: center;
+        width:50%;
+      }
+    }
+  }
+  #numlist-iscroll{
+    height:100%;
+    width:100%;
+    .scrollcon{
+      width:100%;
+      height:100%;
+      @include flexbox();
+    }
+    #side-iscroll{
+      height:100%;
+      width:100px;
+      overflow: hidden;
+    }
+    .side{
+      @include border(0 1px 0 0,#999);
+      @include flex(1);
+      width:100px;
+      ul{
+        width:100%;
+        @include flexbox();
+        @include flex-direction(column);
+        @include justify-content(center);
+        li{
+          height:50px;
+          line-height: 50px;
+          padding-left:10px;
+          @include border(0 0 1px 0,#999);
+        }
+        .active{
+          background:#fff;
+          color:red;
+        }
+      }
+    }
+    .nummain{
+      @include flex(3);
+      height:100%;
+      width:100%;
+      background:#fff;
+      ul{
+        width:100%;
+        .head{
+          height:.8rem;
+          line-height:1.3rem;
+          text-align: center;
+          background: url('/android_asset/www/images/refresh_title.png') no-repeat center center;
+          background-size:50% 20px;
+          color:#999;
+          // padding-top:40px;
+          img{
+            width:.12rem;
+          }
+          .up{
+            transform:rotate(180deg) !important;
+            -webkit-transform: rotate(180deg) !important;
+          }
+
+        }
+        li{
+          width:100%;
+          height:70px;
+          padding:10px 10px;
+          padding-left: 10px;
+          @include border(0 0 1px 0,#999);
+          @include flexbox();
+          @include flex-direction(column);
+          i{
+            width:100% !important;
+            @include flex(1);
+          }
+          b{
+            width:100% !important;
+            @include flex(1);
+          }
+          em{
+            width:100% !important;
+            @include flex(1);
+            font-size:10px;
+            color:#999;
+          }
+          span{
+            position: absolute;
+            right:10px;
+            bottom:10px;
+            color:#999;
+          }
+        }
+      }
+    }
+  }
+}

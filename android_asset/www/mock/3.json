@@ -1,0 +1,12 @@
+[
+  {
+    "id":4,
+    "mername":"快客超市",
+    "merchantimg":"./images/kuaikechaoshi.png",
+    "time":"10:15-23:00",
+    "monthsale":"1224",
+    "pro":"为了更快更好的生活而努力",
+    "isnew":true,
+    "isreserve":false
+  }
+]

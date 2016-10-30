@@ -1,0 +1,37 @@
+.setName{
+  @include flexbox();
+  @include align-items(center);
+  header{
+    width: 100%;
+    height:$tabbarHeight;
+    background: $headBackground;
+    @include flexbox();
+    @include align-items(center);
+    @include justify-content(space-between);
+    .save{
+      color: $tabbarColor;
+      font-size: 14px;
+      padding-right: 10px;
+    }
+    img{
+      height: $headimgSize;
+      width: $headimgSize;
+      margin: 0 $headMargin;
+    }
+    font-size: $headFontSize;
+      @include border($border-width:0 0 1px 0,$border-color:#aaa);
+  }
+  .input-box{
+    @include flexbox();
+    @include align-items(center);
+    margin-top: 10px;
+    background: #fff;
+    height: 50px;
+    width: 100%;
+    padding: 0 10px;
+    @include border($border-width:1px 0 1px 0,$border-color:#aaa);
+    input{
+      border: 0;
+    }
+  }
+}

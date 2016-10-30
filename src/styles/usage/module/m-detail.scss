@@ -1,0 +1,109 @@
+body{
+  @include flexbox();
+  @include flex-direction(column);
+  > * {
+    width:100%;
+  }
+
+  #detail-head{
+    height:$tabbarHeight;
+    line-height: $tabbarHeight;
+    background: $headBackground;
+    @include border($border-width:0 0 1px 0,$border-color:#ccc);
+    color:#333;
+    font-size:$headFontSize;
+    @include flexbox();
+    @include justify-content(space-between);
+    >img{
+      height:$headimgSize;
+      width:$headimgSize;
+      margin-top:12px;
+      margin-right:$headMargin;
+    }
+    .left-h{
+      margin-left:$headMargin;
+      img{
+        margin-right:$headMargin;
+        height:$headimgSize;
+        width:$headimgSize;
+      }
+    }
+  }
+  .ontime{
+    height:0.3rem;
+    line-height:0.3rem;
+    background: url('/android_asset/www/images/ontime.png') no-repeat .1rem .09rem #fffbcb;
+    background-size:.12rem;
+    padding-left:0.3rem;
+  }
+  .optionpart{
+    @include flexbox();
+    @include flex(1);
+    width:100%;
+    .opt-select{
+      width:.66rem;
+      background:#f7f7f7;
+      li{
+        line-height: 32px;
+        text-indent: .12rem;
+        color:#999;
+        @include border($border-width:0 0 1px 0,$border-color:#e3e3e3);
+      }
+      .active{
+        color:#333;
+        background:url('/android_asset/www/images/bg_catagory_sub_selected.png') repeat-y left top #fff;
+        background-size:6px auto;
+      }
+    }
+    .opt-list{
+      @include flex(1);
+      background: #fff;
+      padding-left: .1rem;
+      overflow: hidden;
+      li{
+        @include flexbox();
+        @include border($border-width:0 0 1px 0,$border-color:#e3e3e3);
+        padding-top:.1rem;
+        @include justify-content(space-between);
+        .pro-infor{
+          @include flexbox();
+          padding-bottom: .2rem;
+          >img{
+            height:.4rem;
+            width:.4rem;
+            border:.5px solid #eee;
+            // @include border($border-width:1px 1px 1px 1px,$border-color:#e3e3e3);
+          }
+          .pro-infor-txt{
+            padding-left:.1rem;
+            .pro-name{
+              line-height: 12px;
+              img{
+                height:0.1rem;
+                width:.1rem;
+              }
+            }
+            .pro-price{
+              color:$tabbarColor;
+              // padding-top:.26rem;
+            }
+          }
+        }
+        .add-btn{
+          width:.2rem;
+          height:.2rem;
+          padding: .03rem;
+          border:.5px solid #eee;
+          border-radius: 2px;
+          @include align-self(flex-end);
+          margin-right:.1rem;
+          margin-bottom:.1rem;
+          // @include border($border-width:1px,$border-color:#e3e3e3);
+
+
+        }
+
+      }
+    }
+  }
+}

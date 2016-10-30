@@ -1,0 +1,116 @@
+.header{
+  z-index: 1000;
+  background: #fff;
+  width:100%;
+  height: 44px;
+  line-height:44px;
+  color:$tabbarColor;
+  font-size:$headFontSize;
+  @include border($border-width:0 0 1px 0,$border-color:#ccc);
+  position: relative;
+  div:nth-child(1){
+    height: 44px;
+    width:50px;
+    font-size:$headimgSize;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 1001;
+    padding-left:$headMargin;
+  }
+  h1{
+    height: 44px;
+    font-size:20px;
+    text-indent: 14px;
+    width:100%;
+    padding-left:40px;
+  }
+}
+#numcontainer{
+  flex: 1;
+  overflow: hidden;
+  #num-scroll{
+    width:100%;
+    .numclass{
+    width:100%;
+    @include flexbox();
+    @include flex-wrap(wrap);
+      li{
+        width: 50%;
+        height:60px;
+        padding:10px 10px;
+        position: relative;
+        @include flexbox();
+        @include flex-direction(column);
+        background:#fff;
+        &:nth-child(1){
+          @include border(0 1px 1px 0,#999);
+        }
+        &:nth-child(2){
+          @include border(0 0 1px 0,#999);
+        }
+        &:nth-child(3){
+          @include border(0 1px 1px 0,#999);
+        }
+        &:nth-child(4){
+          @include border(0 0 1px 0,#999);
+        }
+        b{
+          display: block;
+          width:100% !important;
+          font-size: 12px;
+          @include flex(1);
+        }
+        i{
+          width:100% !important;
+          font-size: 12px;
+          @include flex(1);
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+      }
+    }
+    .hottit{
+      width:100%;
+      height:40px;
+      line-height: 40px;
+      padding-left: 10px;
+      background:#eee;
+      @include border(0 0 1px 0,#999);
+    }
+    .hotnum{
+      width:100%;
+      height:100%;
+      li{
+        background:#fff;
+        width:100%;
+        height:80px;
+        padding:10px 10px;
+        @include border(0 0 1px 0,#999);
+        @include flexbox();
+        @include flex-direction(column);
+        i{
+          width:100% !important;
+          @include flex(1);
+        }
+        b{
+          width:100% !important;
+          @include flex(1);
+        }
+        em{
+          width:100% !important;
+          @include flex(1);
+          font-size:10px;
+          color:#999;
+        }
+        span{
+          position: absolute;
+          right:10px;
+          bottom:10px;
+          color:#999;
+        }
+      }
+    }
+  }
+}

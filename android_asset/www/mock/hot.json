@@ -1,0 +1,23 @@
+[
+  {
+    "title":"有好货待分享",
+    "txt":"快来叮咚当团长",
+    "img":"./images/hot1.png",
+    "path":"/applyhead"
+  },{
+    "title":"一起来打怪！",
+    "txt":"万圣狂欢报名中",
+    "img":"./images/hot2.gif",
+    "path":"/neicircledetail"
+  },{
+    "title":"周末该休息啦",
+    "txt":"家务交给阿姨吧",
+    "img":"./images/hot3.jpg",
+    "path":"/aunt"
+  },{
+    "title":"下雨不想出门",
+    "txt":"我们帮你买菜哦",
+    "img":"./images/hot4.gif",
+    "path":"/takeout/4"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "img":"./images/nav1.png",
+    "txt":"早餐",
+    "path":"/takeout/1"
+  },{
+    "img":"./images/nav2.png",
+    "txt":"外卖",
+    "path":"/takeout/2"
+  },{
+    "img":"./images/nav3.png",
+    "txt":"百货烟酒",
+    "path":"/takeout/3"
+  },{
+    "img":"./images/nav4.png",
+    "new":"new",
+    "show":true,
+    "txt":"代买菜",
+    "path":"/takeout/4"
+  },{
+    "img":"./images/nav5.png",
+    "txt":"家政阿姨",
+    "path":"/aunt"
+  },{
+    "img":"./images/nav6.png",
+    "txt":"专业清洗",
+    "path":"/clear"
+  },{
+    "img":"./images/nav7.png",
+    "txt":"代办事",
+    "path":"/commission"
+  },{
+    "img":"./images/nav8.png",
+    "txt":"邻里团",
+    "path":"/neicircle"
+  }
+]

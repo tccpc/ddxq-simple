@@ -1,0 +1,155 @@
+.commission-container{
+  position: relative;
+  width:100%;
+  height:100%;
+  .header{
+    z-index: 1002;
+    background: #fff;
+    width:100%;
+    height: 44px;
+    line-height:44px;
+    color:$tabbarColor;
+    font-size:$headFontSize;
+    @include border($border-width:0 0 1px 0,$border-color:#ccc);
+    position: relative;
+    div:nth-child(1){
+      height: 44px;
+      width:50px;
+      font-size:$headimgSize;
+      position: absolute;
+      top:0;
+      left:0;
+      z-index: 1001;
+      padding-left:$headMargin;
+    }
+    h1{
+      height: 44px;
+      font-size:20px;
+      text-indent: 14px;
+      width:100%;
+      padding-left:40px;
+    }
+  }
+  #cleariscroll{
+    height:100%;
+    width:100%;
+    .top-bg{
+      img{
+        width:100%;
+        // height:50px;
+      }
+    }
+    .clear-tit{
+      @include flexbox();
+      @include align-items(center);
+      @include justify-content(center);
+      height:50px;
+      padding:5px 10px;
+      background: #fff;
+      margin-top:15px;
+      img{
+        width:200px;
+      }
+    }
+    .clearele{
+      width:100%;
+      @include flexbox();
+      @include flex-wrap(wrap);
+      @include border(0 0 1px 0,#999);
+      background:#fff;
+      li{
+        width:50%;
+        height:60px;
+        @include flexbox();
+        padding:5px 10px;
+        &:nth-child(1){
+          @include border(0 1px 1px 0,#999);
+        }
+        &:nth-child(2){
+          @include border(0 0 1px 0,#999);
+        }
+        &:nth-child(3){
+          @include border(0 1px 1px 0,#999);
+        }
+        &:nth-child(4){
+          @include border(0 0 1px 0,#999);
+        }
+        &:nth-child(5){
+          @include border(0 1px 0 0,#999);
+        }
+        img{
+          width:40px;
+          height:40px;
+        }
+        .toptext{
+          padding:0 5px;
+          width:100%;
+          @include flex(1);
+          @include flexbox();
+          @include flex-direction(column);
+          i{
+            display: block;
+            width:100%!important;
+            @include flex(1);
+            img{
+              height: 14px;
+              width: 26px;
+            }
+          }
+          em{
+            display: block;
+            width:100%!important;
+            @include flex(1);
+          }
+        }
+      }
+    }
+    .clearhome{
+      background:#fff;
+      width:100%;
+      @include flexbox();
+      @include flex-wrap(wrap);
+      @include border(0 0 1px 0,#999);
+      li{
+        width:50%;
+        height:60px;
+        @include flexbox();
+        padding:5px 10px;
+        &:nth-child(1){
+          @include border(0 1px 1px 0,#999);
+        }
+        &:nth-child(2){
+          @include border(0 0 1px 0,#999);
+        }
+        &:nth-child(3){
+          @include border(0 1px 0 0,#999);
+        }
+        img{
+          width:40px;
+          height:40px;
+        }
+        .toptext{
+          padding:0 5px;
+          width:100%;
+          @include flex(1);
+          @include flexbox();
+          @include flex-direction(column);
+          i{
+            display: block;
+            width:100%!important;
+            @include flex(1);
+            img{
+              width:30px!important;
+              height:20px!important;
+            }
+          }
+          em{
+            display: block;
+            width:100%!important;
+            @include flex(1);
+          }
+        }
+      }
+    }
+  }
+}
